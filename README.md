@@ -41,4 +41,4 @@ The main objective of this project is to simulate how load shedding decisions ca
 4. Run the Python file:
 
 ```bash
-python giki_load_shedding_scheduler.py
+Load Shedding Schedule Python File.py
